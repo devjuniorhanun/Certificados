@@ -1,106 +1,146 @@
 # 📜 Certificados
 
-Bem-vindo ao meu repositório de certificados!
+<p align="center">
 
-Este repositório reúne os certificados obtidos durante minha jornada de aprendizado em tecnologia, desenvolvimento de software, infraestrutura, cloud computing e segurança da informação.
+![GitHub last commit](https://img.shields.io/github/last-commit/devjuniorhanun/Certificados)
+![GitHub repo size](https://img.shields.io/github/repo-size/devjuniorhanun/Certificados)
+![GitHub stars](https://img.shields.io/github/stars/devjuniorhanun/Certificados?style=social)
+![Status](https://img.shields.io/badge/status-Em%20Atualiza%C3%A7%C3%A3o-success)
 
-O objetivo é manter um histórico organizado da minha evolução profissional e demonstrar o compromisso com o aprendizado contínuo.
+</p>
 
 ---
 
-# 🎯 Objetivo
+# 📖 Sobre
 
-Centralizar todos os certificados conquistados em cursos, bootcamps, treinamentos e eventos técnicos, servindo como um portfólio de conhecimento e capacitação.
+Este repositório reúne os certificados conquistados durante minha jornada de aprendizado em tecnologia.
+
+O objetivo é documentar minha evolução profissional, registrando cursos, bootcamps e especializações em Desenvolvimento de Software, DevOps, Cloud Computing e Cybersecurity.
+
+---
+
+# 🚀 Áreas de Estudo
+
+- 🔐 Cybersecurity
+- 🛡️ Pentest
+- 🌐 Reconhecimento (Recon)
+- 🐍 Python
+- 🐧 Linux
+- ⚙️ Shell Script
+- 🌐 Redes
+- 🔒 Criptografia
+- 🐳 Docker
+- ☸ Kubernetes
+- ☁️ Cloud Computing
+- 🚀 DevOps
+- 💻 Golang
+- ⚛️ React
+- 🎯 Laravel
 
 ---
 
 # 📂 Estrutura do Repositório
 
-```
+```text
 Certificados/
-└── Solyd/
-    ├── 01 - Introdução ao Hacking e Pentest.pdf
-    ├── 02 - Python Básico.pdf
-    ├── 03 - Fundamentos de Segurança da Informação e Pentest.pdf
-    ├── 04 - Dominando o Linux e Shell Script para Pentesters.pdf
-    └── 05 - Fundamentos de Criptografia e Senhas.pdf
+│
+├── FullCycle/
+│   └── 01 - Docker na Pratica.pdf
+│
+├── Solyd/
+│   ├── 01 - Introdução ao Hacking e Pentest.pdf
+│   ├── 02 - Python Básico.pdf
+│   ├── 03 - Fundamentos de Segurança da Informação e Pentest.pdf
+│   ├── 04 - Dominando o Linux e Shell Script para Pentesters.pdf
+│   ├── 05 - Fundamentos de Criptografia e Senhas.pdf
+│   ├── 06 - Introdução ao Python e Algoritmos.pdf
+│   ├── 07 - Python Orientado a Objetos e Automação.pdf
+│   ├── 08 - Fundamentos de Redes para Pentesters.pdf
+│   └── 09 - Dominando o Recon em Pentest.pdf
+│
+└── README.md
 ```
 
 ---
 
-# 🎓 Certificados Disponíveis
+# 🎓 Certificados
 
-## Solyd
-
-| Curso                                            | Área                    |
-| ------------------------------------------------ | ----------------------- |
-| Introdução ao Hacking e Pentest                  | Cybersecurity           |
-| Python Básico                                    | Python                  |
-| Fundamentos de Segurança da Informação e Pentest | Segurança da Informação |
-| Dominando Linux e Shell Script para Pentesters   | Linux                   |
-| Fundamentos de Criptografia e Senhas             | Criptografia            |
-
----
-
-# 🚀 Competências Desenvolvidas
-
-* Segurança da Informação
-* Ethical Hacking
-* Pentest
-* Linux
-* Shell Script
-* Python
-* Criptografia
-* Boas práticas de segurança
-* Redes
-* Conceitos de vulnerabilidades
+| Nº | Curso | Plataforma | Área |
+|---:|--------|------------|------|
+| 01 | Docker na Prática | Full Cycle | Docker |
+| 02 | Introdução ao Hacking e Pentest | Solyd | Pentest |
+| 03 | Python Básico | Solyd | Python |
+| 04 | Fundamentos de Segurança da Informação e Pentest | Solyd | Segurança |
+| 05 | Dominando Linux e Shell Script para Pentesters | Solyd | Linux |
+| 06 | Fundamentos de Criptografia e Senhas | Solyd | Criptografia |
+| 07 | Introdução ao Python e Algoritmos | Solyd | Python |
+| 08 | Python Orientado a Objetos e Automação | Solyd | Python |
+| 09 | Fundamentos de Redes para Pentesters | Solyd | Redes |
+| 10 | Dominando o Recon em Pentest | Solyd | Recon / OSINT |
 
 ---
 
-# 📈 Estatísticas
+# 💡 Competências Desenvolvidas
 
-| Categoria      |    Quantidade |
-| -------------- | ------------: |
-| Plataforma     |             1 |
-| Certificados   |             5 |
-| Área Principal | Cybersecurity |
-
----
-
-# 📚 Próximas Certificações
-
-Este repositório será atualizado conforme novas certificações forem concluídas, incluindo conteúdos relacionados a:
-
-* Golang
-* Laravel
-* React
-* Docker
-* Kubernetes
-* DevOps
-* Cloud Computing
-* AWS
-* Azure
-* Segurança da Informação
-* Inteligência Artificial
-* Agritech
+- Ethical Hacking
+- Pentest
+- Reconhecimento (Recon)
+- OSINT
+- Enumeração
+- Linux
+- Shell Script
+- Redes TCP/IP
+- Python
+- Programação Orientada a Objetos
+- Docker
+- Criptografia
+- Segurança da Informação
+- Automação
+- Hardening
 
 ---
 
-# 💼 Sobre Mim
+# 📊 Estatísticas
 
-Sou desenvolvedor Full Stack com interesse em:
-
-* Golang
-* Laravel
-* React
-* Docker
-* Kubernetes
-* Linux
-* Cybersecurity
-* Agritech
-
-Acredito no aprendizado contínuo como parte fundamental da evolução profissional e utilizo este repositório para registrar minha trajetória de estudos.
+| Indicador | Valor |
+|-----------|------:|
+| Plataformas | 2 |
+| Certificados | 10 |
+| Cursos Solyd | 9 |
+| Cursos Full Cycle | 1 |
 
 ---
 
-⭐ Se este repositório foi útil ou inspirador, considere deixar uma estrela no GitHub.
+# 🎯 Próximos Estudos
+
+- [ ] Kubernetes
+- [ ] Docker Avançado
+- [ ] AWS
+- [ ] Azure
+- [ ] Terraform
+- [ ] CI/CD
+- [ ] Cloud Security
+- [ ] Golang
+- [ ] Laravel
+- [ ] React
+
+---
+
+# 👨‍💻 Sobre Mim
+
+Desenvolvedor Full Stack com foco em Backend, DevOps e Cybersecurity.
+
+Tenho interesse em desenvolvimento de aplicações modernas, infraestrutura, automação, containers e Segurança da Informação, buscando constante evolução técnica por meio de cursos, laboratórios e projetos práticos.
+
+---
+
+# 📫 Contato
+
+- GitHub: https://github.com/devjuniorhanun
+- LinkedIn: https://linkedin.com/in/juniorhanun
+
+---
+
+⭐ Este repositório é atualizado sempre que concluo uma nova certificação.
+
+> "Aprender continuamente é o melhor investimento para qualquer profissional de tecnologia."
